@@ -1,1 +1,3 @@
+Amazon Prime Video-Dashboard
+
 The Amazon Prime videos and shows visualization provides insights into the content distribution, ratings, and popularity of various genres on the platform. The radial bar chart, donut chart, area chart, map chart, and horizontal bar chart display data on the number of movies and shows, ratings, genres, and geographical distribution. The text sheets offer detailed information on title, cast, genre, description, release year, and type. The dashboard integrates all these visualizations, enabling users to interactively explore and analyze the data. Key insights include the dominance of the United States in content contribution, the popularity of the 13+ rating, and the majority of movies (80.82%) compared to shows (19.18%).
